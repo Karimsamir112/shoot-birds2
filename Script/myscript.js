@@ -37,7 +37,7 @@
 		}
 
 		
-		var t = 40;
+		var t = 30;
 		
 		function countingdown(){
 			
