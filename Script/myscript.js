@@ -37,13 +37,13 @@
 		}
 
 		
-		var t = 30;
+		var t = 20;
 		
 		function countingdown(){
 			
 			document.querySelector(".time").innerHTML=t--;
 			
-			if(t < 10){
+			if(t < 5){
 				
 				document.querySelector(".time").style.WebkitAnimationPlayState= "running";
 			}
